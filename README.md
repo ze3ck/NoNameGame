@@ -1,2 +1,2 @@
 # 👾 NoNameGame 👾
-![Wallpaper Pattern](Wallpaper/wallpaperpurple.jpg)
+![Wallpaper Pattern](Wallpaper/wallhaven-39vx9y.jpg)
