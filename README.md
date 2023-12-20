@@ -6,12 +6,13 @@
 - **Título:** No Name Game - _Provisional_
 - **Género:** _Por definir_
 - **Estilo:** 2D Pixel Art
-##
+----
 ## 👤 Equipo de Trabajo 👤
 ### 👨‍💻 Desarrolladores 👨‍💻
-- Pablo Gonzales
-- Daniel Caro
-- Esteban Garces
-- Bastian Leyton
+- Pablo Gonzales 
+- **Soqus:** Daniel Caro 
+- Esteban Garces 
+- **Ze3ck:** Bastian Leyton 
 ### 🎨 Diseño Gráfico y Arte 🎨
-- Sergio Jaramillo
+- **Shino_Hatake:** Sergio Jaramillo 
+----
