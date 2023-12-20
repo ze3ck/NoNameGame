@@ -11,9 +11,9 @@
 ## 👤 Equipo de Trabajo 👤
 ### 👨‍💻 Desarrolladores 👨‍💻
 - Pablo Gonzales 
-- **Soqus:** Daniel Caro 
+- [**Soqus:**](https://github.com/soqus) Daniel Caro 
 - Esteban Garces 
-- **Ze3ck:** Bastian Leyton 
+- [**Ze3ck:**](https://github.com/ze3ck) Bastian Leyton 
 ### 🎨 Diseño Gráfico y Arte 🎨
-- **Shino_Hatake:** Sergio Jaramillo 
+- [**Shino_Hatake:**](https://github.com/Shino-Hatake) Sergio Jaramillo 
 ----
