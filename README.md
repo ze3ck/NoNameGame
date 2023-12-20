@@ -3,11 +3,11 @@
 
 ----
 ## 🔎 Tabla de Contenidos 🔎
-1. [Información del Proyecto](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-informaci%C3%B3n-del-proyecto-)
-1. [Equipo de Trabajo](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-equipo-de-trabajo-)
-    1. [Desarrolladores](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-desarrolladores-)
-    1. [Diseño Gráfico y Arte](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-dise%C3%B1o-gr%C3%A1fico-y-arte-)
-1. [Otros](https://github.com/ze3ck/NoNameGame/blob/main/README.md#-otros-)
+- [Información del Proyecto](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-informaci%C3%B3n-del-proyecto-)
+- [Equipo de Trabajo](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-equipo-de-trabajo-)
+    - [Desarrolladores](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-desarrolladores-)
+    - [Diseño Gráfico y Arte](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-dise%C3%B1o-gr%C3%A1fico-y-arte-)
+- [Otros](https://github.com/ze3ck/NoNameGame/blob/main/README.md#-otros-)
 ----
 ## 📖 Información del Proyecto 📖
 - **Estado:** _No iniciado_
