@@ -7,7 +7,7 @@
 - **Género:** _Por definir_
 - **Estilo:** 2D Pixel Art
 ##
-## Integrantes:
+## Integrantes
 ### 👨‍💻 Desarrolladores 👨‍💻
 - Pablo Gonzales
 - Daniel Caro
