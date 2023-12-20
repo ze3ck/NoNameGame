@@ -1,6 +1,9 @@
-# 👾 NoNameGame 👾
+# 👾 No Name Game 👾
 ![Wallpaper Pattern](Wallpaper/wallhaven-39vx9y.jpg)
 
+----
+## 🔎 Índice 🔎
+- [Información del Proyecto](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-informaci%C3%B3n-del-proyecto-)
 ----
 ## 📖 Información del Proyecto 📖
 - **Estado:** _No iniciado_
