@@ -7,7 +7,7 @@
 1. [Equipo de Trabajo](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-equipo-de-trabajo-)
     1. [Desarrolladores](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-desarrolladores-)
     1. [Diseño Gráfico y Artes](https://github.com/ze3ck/NoNameGame?tab=readme-ov-file#-dise%C3%B1o-gr%C3%A1fico-y-arte-)
-1. [Otros]()
+1. [Otros](https://github.com/ze3ck/NoNameGame/blob/main/README.md#-otros-)
 ----
 ## 📖 Información del Proyecto 📖
 - **Estado:** _No iniciado_
