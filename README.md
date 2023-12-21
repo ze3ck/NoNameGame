@@ -1,5 +1,5 @@
 # 👾 No Name Game 👾
-![Wallpaper Pattern](Wallpaper/wallhaven-39vx9y.jpg)
+![Wallpaper Pattern](Wallpaper/spacePixelart.png)
 
 ----
 ## 🔎 Tabla de Contenidos 🔎
