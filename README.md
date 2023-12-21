@@ -19,7 +19,7 @@
 ### 👨‍💻 Desarrolladores 👨‍💻
 - Pablo Gonzales 
 - [**Soqus:**](https://github.com/soqus) Daniel Caro 
-- Esteban Garces 
+- [**Sky_:**](https://github.com/SkyZerafeen) Esteban Garces 
 - [**Ze3ck:**](https://github.com/ze3ck) Bastian Leyton 
 ### 🎨 Diseño Gráfico y Arte 🎨
 - [**Shino_Hatake:**](https://github.com/Shino-Hatake) Sergio Jaramillo 
