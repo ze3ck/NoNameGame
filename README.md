@@ -12,7 +12,7 @@
 ## 📖 Información del Proyecto 📖
 - **Estado:** _No iniciado_
 - **Título:** No Name Game - _Provisional_
-- **Género:** _Por definir_
+- **Género:** Metroidvania 
 - **Estilo:** 2D Pixel Art
 ----
 ## 👤 Equipo de Trabajo 👤
